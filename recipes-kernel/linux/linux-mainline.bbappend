@@ -1,1 +1,1 @@
-COMPATIBLE_MACHINE:append = "raspberrypi2"
+COMPATIBLE_MACHINE = "raspberrypi2"
